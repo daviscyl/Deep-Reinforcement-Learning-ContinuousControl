@@ -29,6 +29,7 @@ Codes were written using Python3.6.2, run this to install necessary packages:
 
 The Unity environment `Reacher_20.app` only runs on Macs, for Windows users, download the Windows 32-bit version [here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P2/Reacher/Reacher_Windows_x86.zip).
 
+Please follow the instruction in the [Udacity DRLND Instructions](https://github.com/udacity/deep-reinforcement-learning#dependencies) on setting up the environment.
 
 ### Instructions
 
